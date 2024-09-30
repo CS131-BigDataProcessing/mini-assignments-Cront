@@ -1,0 +1,25 @@
+  111  grep "wor" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  112  grep "dred" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  113  grep "Good luck, Babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  114  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  115  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w
+  116  wc -l -w ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  117  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w
+  118  cls
+  119  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w
+  120  cls
+  121  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w > abidiS_a2_counts.txt
+  122  ls
+  123  mv abidiS_a2_counts.txt mini-assignments-Cront/
+  124  cls
+  125  ls
+  126  cd mini-assignments-Cront/
+  127  clear
+  128  ls
+  129  vi abidiS_a2_counts.txt 
+  130  ls
+  131  history
+  132  clear
+  133  history > abidiS_a2_cmds.log
+
+# edited file to show relevant history commands 

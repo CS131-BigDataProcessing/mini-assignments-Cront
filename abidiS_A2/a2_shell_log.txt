@@ -1,0 +1,233 @@
+    1  pageant C:\Users\natha\Documents\ssh\cs131git.ppk
+    2  plink
+    3  ssh git@github.com:CS131-BigDataProcessing/a1-collab-knaythan.git
+    4  ssh git@github.com
+    5  wget
+    6  ssh git@github.com
+    7  plink
+    8  insights-client --register
+    9  psexec \\localhost -s cmd.exe
+   10  git clone https://github.com/CS131-BigDataProcessing/a1-collab-knaythan.git
+   11  pwd
+   12  ls
+   13  cd a1-collab-knaythan
+   14  cd ..
+   15  cat a1-collab-knaythan
+   16  passwd
+   17  A1_github-collab-exercise
+   18  git clone git@github.com:CS131-BigDataProcessing/a1-collab-knaythan.git
+   19  ssh
+   20  git clone git@github.com:CS131-BigDataProcessing/a1-collab-knaythan.git
+   21  ssh add
+   22  pageant "C:\Users\natha\Documents\ssh\cs131git.ppk"
+   23  ssh pageant
+   24  ssh pageant C:\Users\natha\Documents\ssh\cs131git.ppk
+   25  insights-client --register
+   26  systemctl enable --now cockpit.socket
+   27  pageant C:\Users\natha\Documents\ssh\cs131git.ppk
+   28  plink git@github.com
+   29  ssh git@github.com
+   30  ssh git@github.com:CS131-BigDataProcessing/a1-collab-knaythan.git
+   31  ls
+   32  cd a1-collab-knaythan
+   33  ls
+   34  README.md
+   35  cal
+   36  cal 2008
+   37  cat README.md
+   38  cd ..
+   39  cd a1-collab-knaythan
+   40  git branch ncohnfa24-collab
+   41  git switch -c ncohnfa24-collab
+   42  git switch ncohnfa24-collab
+   43  cat Colaborators.md
+   44  git branch -d ncohnfa24-collab
+   45  git switch ncohnfa24-collab
+   46  git branch *
+   47  git branch
+   48  git checkout ncohnfa24-collab
+   49  ls
+   50  cat Collaborators.md
+   51  cim
+   52  vim
+   53  vim Collaborators.md
+   54  cat Collaborators.md
+   55  vim Collaborators.md
+   56  cat Collaborators.md
+   57  vi test.txt
+   58  ls
+   59  cat test.txt
+   60  vi test.txt
+   61  more test.txt
+   62  less Collaborators.md
+   63  cd ..
+   64  ls
+   65  cd ..
+   66  ls
+   67  cd hephamfa24
+   68  cd ncohnfa24
+   69  cd .
+   70  cd a1-collab-knaythan
+   71  git branch
+   72  cd ..
+   73  man tar
+   74  tar --help
+   75  ls -lah
+   76  cd .ssh
+   77  ls
+   78  ls -lah
+   79  cat known_hosts
+   80  cd .
+   81  cd..
+   82  cd ..
+   83  ls
+   84  ls -lah
+   85  ls -F
+   86  tar --usage 
+   87  ls --help
+   88  ls -F
+   89  ls -l
+   90  cp --help
+   91  vi givemepermission.txt
+   92  ls -l
+   93  chmod --help
+   94  chmod 7 6 4 givemepermission.txt
+   95  chmod 764 givemepermission.txt
+   96  ls -l
+   97  rm givemepermission.txt
+   98  ls
+   99  cd a1-collab-knaythan/
+  100  ls
+  101  git branch
+  102  git pull
+  103  git pull origin main
+  104  cat Collaborators.md
+  105  git checkout main
+  106  git merg ncohnfa24-collab
+  107  git merge ncohnfa24-collab
+  108  git add Collaborators.md
+  109  git commit -m "Nathan Cohn added to collaborators"
+  110  git config --global user.email "nathan.cohn@sjsu.edu"
+  111  git confid --global user.name "Nathan Cohn
+  112  "
+  113  git config --global user.name "Nathan Cohn"
+  114  git commit -m "Nathan Cohn added to collaborators"
+  115  git push
+  116  ssh-keygen -t ed25519 -C "nathan.cohn@sjsu.edu"
+  117  Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+  118  ssh-add /mnt/scratch/FA24_CS131_Jessica/ncohnfa24/.ssh/id_ed25519
+  119  clip < ~/.ssh/id_ed25519.pub
+  120  ls
+  121  cd ..
+  122  ls
+  123  ls -lah
+  124  cd .ssh
+  125  ls
+  126  cat id_ed25519.pub
+  127  cd ..
+  128  ls
+  129  cd a1-collab-knaythan/
+  130  ls
+  131  git branch
+  132  git merge ncohnfa24-collab
+  133  git status
+  134  git push
+  135  ls
+  136  cd a1-collab-knaythan/
+  137  ls
+  138  git status
+  139  git push
+  140  cd ..
+  141  ls
+  142  ls -lah
+  143  git clone https://github.com/CS131-BigDataProcessing/a1-collab-knaythan.git
+  144  rm a1-collab-knaythan/
+  145  rm -r a1-collab-knaythan/
+  146  ls
+  147  rm -r a1-collab-knaythan/
+  148  ls -lag
+  149  ls -lah
+  150  rm -r .gitconfig
+  151  rm -r a1-collab-knaythan/
+  152  ls
+  153  ls-lah
+  154  ls -lah
+  155  git clone https://github.com/CS131-BigDataProcessing/a1-collab-knaythan.git
+  156  fuser -k .git
+  157  fuser a1-collab-knaythan/
+  158  fuser -k a1-collab-knaythan/
+  159  rm -rf a1-collab-knaythan/
+  160  ls
+  161  cd .ssh/
+  162  ls
+  163  cd ..
+  164  ls -lah
+  165  git clone https://github.com/CS131-BigDataProcessing/a1-collab-knaythan.git
+  166  ls
+  167  cd a1-collab-knaythan/
+  168  ls
+  169  ls -lah
+  170  cat Collaborators.md
+  171  vim Collaborators.md
+  172  cat Collaborators.md
+  173  git branch
+  174  git switch -c ncohn-collab
+  175  git pull origin main
+  176  git checkout main
+  177  cat Collaborators.md
+  178  git merge ncohn-collab
+  179  git add Collaborators.md
+  180  git commit -m "Nathan Cohn added to collaborators"
+  181  cat ~/.gitconfig
+  182  ls -lah
+  183  cat .git
+  184  cd .git
+  185  ls -lah
+  186  cat config
+  187  vim config
+  188  cd ..
+  189  git commit -m "Nathan Cohn added to collaborators"
+  190  git push
+  191  ls
+  192  rm -rf a1-collab-knaythan/
+  193  ls
+  194  git clone git@github.com:CS131-BigDataProcessing/a1-collab-knaythan.git
+  195  ls
+  196  cd a1-collab-knaythan/
+  197  ls
+  198  git branch
+  199  git switch -c ncohn-collab
+  200  vim Collaborators.md
+  201  cat Collaborators.md
+  202  git pull origin main
+  203  git checkout main
+  204  git merge ncohn-collab
+  205  git add Collaborators.md
+  206  git commit -m "Nathan Cohn added to collaborators"
+  207  cd .git
+  208  vim config
+  209  cat config
+  210  cd ..
+  211  git commit -m "Nathan Cohn added to collaborators"
+  212  git push
+  213  ls
+  214  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles
+  215  ls
+  216  ls CS131_fa24_datafiles/
+  217  cd Lec02
+  218  cd CS131_fa24_datafiles/
+  219  cd Lec02/
+  220  ls
+  221  vi goodluck.txt 
+  222  hisotry > a2_shell_log.txt
+  223  history > a2_shell_log.txt
+  224  ls
+  225  cat a2
+  226  cat a2_shell_log.txt 
+  227  ls
+  228  cd CS131_fa24_datafiles/
+  229  cd Lec02/
+  230  ls
+  231  egrep "wor" goodluck.txt
+  232  egrep "dred" goodluck.txt
+  233  history > a2_shell_log.txt 

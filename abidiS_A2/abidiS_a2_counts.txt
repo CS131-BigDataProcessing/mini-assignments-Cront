@@ -1,0 +1,2 @@
+# number of lines where "Goodluck, babe" occurs and number of words of the same output
+      6      78
