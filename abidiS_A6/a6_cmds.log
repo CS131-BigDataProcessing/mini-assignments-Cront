@@ -1,0 +1,460 @@
+    1  clear
+    2  password 786hasan
+    3  passwd 786hasan
+    4  passwd
+    5  clear
+    6  [asyedfa24@sjsu ~]$
+    7  ping 172.20.25.9
+    8  clear
+    9  ping
+   10  clear
+   11  wget http://www.github.com
+   12  ls
+   13  rm index.html 
+   14  clear
+   15  ls
+   16  clear
+   17  cls
+   18  grep -c "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+   19  cls
+   20  exit
+   21  ls
+   22  pwd
+   23  mkdir cs131
+   24  clear
+   25  ls
+   26  cd cs131/
+   27  cd
+   28  clear
+   29  vi ~/.bashrc
+   30  nvim
+   31  vim
+   32  clear
+   33  vi ~/.bashrc
+   34  clear
+   35  source ~/.bashrc
+   36  clear
+   37  vi 
+   38  vi .bashrc 
+   39  clear
+   40  vi ~/.bashrc
+   41  clear
+   42  source ~/.bashrc
+   43  clear
+   44  cls
+   45  asdfa
+   46  cls
+   47  ls
+   48  cd cs131/
+   49  clear
+   50  ls
+   51  cd
+   52  ls
+   53  cd cs131/
+   54  ls
+   55  cld
+   56  cd
+   57  clear
+   58  ls
+   59  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-Cront.git
+   60  clear
+   61  ls
+   62  rmdir cs131/
+   63  cd mini-assignments-Cront/
+   64  clear
+   65  ls
+   66  git status
+   67  cls
+   68  man grep
+   69  ls
+   70  cd
+   71  ls
+   72  cd mini-assignments-Cront/
+   73  clear
+   74  ls
+   75  grep "wor" a2_shell_log.txt 
+   76  grep "Good luck, babe" a2_shell_log.txt 
+   77  grep "wor" a2_shell_log.txt 
+   78  grep "g" a2_shell_log.txt 
+   79  cls
+   80  grep "wor" a2_shell_log.txt 
+   81  grep "dred" a2_shell_log.txt 
+   82  grep "Good luck, babe" a2_shell_log.txt 
+   83  wc "Good luck, babe" a2_shell_log.txt 
+   84  cls
+   85  grep "wor" a2_shell_log.txt 
+   86  grep "dred" a2_shell_log.txt 
+   87  ls
+   88  cs
+   89  clear
+   90  cd
+   91  clear
+   92  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+   93  clear
+   94  cd mini-assignments-Cront/
+   95  clear
+   96  ls
+   97  clear
+   98  grep "dred" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+   99  cls
+  100  grep "dred" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  101  grep "wor" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  102  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  103  wc "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  104  man wc
+  105  wc ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  106  cls
+  107  ls
+  108  cls
+  109  ls
+  110  history
+  111  grep "wor" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  112  grep "dred" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  113  grep "Good luck, Babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  114  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  115  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w
+  116  wc -l -w ~/CS131_fa24_datafiles/Lec02/goodluck.txt 
+  117  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w
+  118  cls
+  119  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w
+  120  cls
+  121  grep "Good luck, babe" ~/CS131_fa24_datafiles/Lec02/goodluck.txt | wc -l -w > abidiS_a2_counts.txt
+  122  ls
+  123  mv abidiS_a2_counts.txt mini-assignments-Cront/
+  124  cls
+  125  ls
+  126  cd mini-assignments-Cront/
+  127  clear
+  128  ls
+  129  vi abidiS_a2_counts.txt 
+  130  ls
+  131  history
+  132  clear
+  133  history > abidiS_a2_cmds.log
+  134  ls
+  135  vim abidiS_a2_cmds.log 
+  136  mkdir abidiS_A2
+  137  ls
+  138  vim LICENSE 
+  139  vim README.md 
+  140  mv a2* abidi*
+  141  mv a2* abidi* abidiS_A2/
+  142  clear
+  143  ls
+  144  cd abidiS_A2/
+  145  ls
+  146  cd
+  147  ls
+  148  cd mini-assignments-Cront/
+  149  git status
+  150  git add abidiS_A2/*
+  151  git commit
+  152  git commit -m "A2 assignment submitted"
+  153  git config --global user.email "hasan0407@gmail.com"
+  154  git commit -m "A2 assignment submitted"
+  155  git config --global user.email "hasan0407@gmail.com"
+  156  git config --global user.name "Syed Abidi"
+  157  cls
+  158  git commit -m "A2 assignment submitted"
+  159  git status
+  160  git push
+  161  cls
+  162  git push
+  163  git status
+  164  cd abidiS_A2/
+  165  cls
+  166  git status
+  167  git push
+  168  cls
+  169  cd
+  170  ls
+  171  cls
+  172  git status
+  173  cd mini-assignments-Cront/
+  174  cls
+  175  git status
+  176  git push
+  177  git remote -v
+  178  git remote set-url origin git@github.com:USERNAME/REPONAME.git
+  179  git remote set-url origin git@github.com:Cront/cs131-bigdataprocessing-fall2024-mini-assignments-mini-assignments.git
+  180  git status
+  181  git push
+  182  clear
+  183  git remote set-url origin git@github.com:Cront/cs131-bigdataprocessing-fall2024-mini-assignments-mini-assignments.git
+  184  git status
+  185  git push
+  186  ls -a
+  187  cat .git/config 
+  188  git pull
+  189  clear
+  190  git remote set-url origin git@github.com:Cront/cs131-bigdataprocessing-fall2024-mini-assignments-mini-assignments.git
+  191  git status
+  192  git push
+  193  ls -al ~/.ssh
+  194  cls
+  195  ls
+  196  git push
+  197  cls
+  198  git push
+  199  ls
+  200  cd
+  201  cls
+  202  ls
+  203  cd mini-assignments-Cront/
+  204  ls
+  205  ls -a
+  206  vim .git/
+  207  vim .
+  208  c;s
+  209  cls
+  210  ls
+  211  cd mini-assignments-Cront/
+  212  clear
+  213  ls
+  214  git status
+  215  git push
+  216  cls
+  217  ls -al ~/.ssh
+  218  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  219  cls
+  220  ssh-keygen -t rsa -b 4096 -C "hasan0407@gmail.com"
+  221  cls
+  222  cat ~/.ssh/id_rsa.pub
+  223  cls
+  224  cat ~/.ssh/id_rsa.pub
+  225  vim ~/.ssh/id_rsa.pub
+  226  cls
+  227  ssh -T git@github.com
+  228  cls
+  229  git push
+  230  cls
+  231  exit
+  232  ls
+  233  vi 
+  234  cls
+  235  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  236  vi ~/.vim
+  237  vi ~/.vimrc
+  238  cls
+  239  vim
+  240  cls
+  241  echo $HOME
+  242  $printenv $HOME
+  243  cls
+  244  vi ~/.bash_profile
+  245  vi ~/.bashrc
+  246  cls
+  247  ls
+  248  cd mini-assignments-Cront/
+  249  cls
+  250  ls
+  251  mkdir abidiS_A4
+  252  cd abidiS_A4/
+  253  cls
+  254  touch echoing.sh
+  255  vim echoing.sh 
+  256  cd
+  257  cls
+  258  ls
+  259  cd mini-assignments-Cront/
+  260  ls
+  261  cls
+  262  cd abidiS_A4
+  263  cls
+  264  vim echoing.sh 
+  265  sh echoing.sh Hasan 20
+  266  cls
+  267  vim echoing.sh 
+  268  sh echoing.sh Hasan 20
+  269  sh echoing.sh Hasan 20 5 5
+  270  cls
+  271  vim echoing.sh 
+  272  sh echoing.sh Hasan 20 5 5
+  273  cls
+  274  vim echoing.sh 
+  275  man bc
+  276  vim echoing.sh 
+  277  man bc
+  278  vim echoing.sh 
+  279  sh echoing.sh Hasan 20 5 5
+  280  vim echoing.sh 
+  281  clear
+  282  git status
+  283  cls
+  284  cd
+  285  clear
+  286  git status
+  287  cd mini-assignments-Cront/
+  288  ls
+  289  cl
+  290  cls
+  291  git status
+  292  cls
+  293  ls
+  294  git add abidiS_A4/
+  295  git status
+  296  git commit -m "Assignment 4"
+  297  git push
+  298  cls
+  299  exit
+  300  cls
+  301  cd mini-assignments-Cront/
+  302  cls
+  303  git tag -a V.A4 -m "Basic shell scripting"
+  304  git push origin V.A4 
+  305  cls
+  306  exit
+  307  cls
+  308  lwd
+  309  ls
+  310  cls
+  311  cd mini-assignments-Cront/
+  312  clear
+  313  ls
+  314  mkdir abidiS_A5
+  315  cls
+  316  cd abidiS_A5/
+  317  cls
+  318  touch age.sh temperature.sh
+  319  cls
+  320  nvim age.sh 
+  321  vim age.sh 
+  322  age.sh
+  323  ./age.sh
+  324  man chmod
+  325  chmod +x age.sh 
+  326  cls
+  327  ./age.sh 
+  328  ./age.sh 4
+  329  ./age.sh 55
+  330  vim age.sh 
+  331  ./age.sh 55
+  332  ./age.sh 1
+  333  cls
+  334  vim age.sh 
+  335  ./age.sh 100
+  336  ./age.sh 25
+  337  ./age.sh 20
+  338  ./age.sh 5
+  339  ./age.sh 17
+  340  ./age.sh 48
+  341  ./age.sh 72
+  342  cls
+  343  vim temperature.sh 
+  344  chmod +x temperature.sh 
+  345  ./temperature.sh 67
+  346  vim temperature.sh 
+  347  ./temperature.sh 67
+  348  vim temperature.sh 
+  349  cls
+  350  ./temperature.sh 67
+  351  vim temperature.sh 
+  352  cls
+  353  vim temperature.sh 
+  354  ./temperature.sh 67
+  355  ./temperature.sh 62
+  356  ./temperature.sh 5
+  357  ./temperature.sh 97
+  358  ./temperature.sh 73
+  359  cls
+  360  ls
+  361  cd mini-assignments-Cront/
+  362  cls
+  363  ls
+  364  git status
+  365  git add abidiS_A5/
+  366  git commit -m "Syed Abidi a5 folder"
+  367  git push origin main
+  368  cls
+  369  git tag -a V.A5 -m "Assignment 5 finished and tag attached"
+  370  git push origin V.A5
+  371  cls
+  372  git status
+  373  cls
+  374  cd mini-assignments-Cront/
+  375  cls
+  376  ls
+  377  git status
+  378  cd
+  379  cls
+  380  ls
+  381  mv mini-assignments-Cront/ old-mini-assignments/
+  382  ls
+  383  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-Cront.git
+  384  ls
+  385  cp old-mini-assignments/ mini-assignments-Cront/
+  386  cp old-mini-assignments/abidiS_A* mini-assignments-Cront/
+  387  cp -r old-mini-assignments/abidiS_A* mini-assignments-Cront/
+  388  cls
+  389  cd mini-assignments-Cront/
+  390  ls
+  391  git add abidiS_A*
+  392  git commit
+  393  git commit -m "All my HWs"
+  394  git push
+  395  cls
+  396  git push
+  397  cls
+  398  git push
+  399  cls
+  400  git status
+  401  git push
+  402  ls
+  403  cd
+  404  ls
+  405  cd mini-assignments-Cront/
+  406  ls
+  407  clsa
+  408  cls
+  409  ls
+  410  cd mini-assignments-Cront/
+  411  ls
+  412  mkdir abidiS_A6
+  413  cls
+  414  ls
+  415  cd abidiS_A6/
+  416  cls
+  417  ls
+  418  cls
+  419  touch airline_inquiry.txt
+  420  touch a6_cmds.log
+  421  ls
+  422  git status
+  423  git add .
+  424  git commit
+  425  git commit -m "Starter files"
+  426  git push
+  427  ls
+  428  cd
+  429  ls
+  430  cd CS131_fa24_datafiles/
+  431  ls
+  432  cd Lec0
+  433  cd Lec06/
+  434  ls
+  435  cat sample_startup_code.txt 
+  436  :q
+  437  cler
+  438  clear
+  439  cd
+  440  cd CS131_fa24_datafiles/
+  441  ls
+  442  git pull
+  443  cls
+  444  ls
+  445  cd Lec08/
+  446  ls
+  447  mv airline_stats.csv ~/mini-assignments-Cront/abidiS_A6/
+  448  cd
+  449  cd mini-assignments-Cront/
+  450  cls
+  451  ls
+  452  cd abidiS_A6/
+  453  cls
+  454  ls
+  455  awk -F',' '{print $4}' airline_stats.csv | sort | uniq
+  456  cls
+  457  awk -F',' '{print $4}' airline_stats.csv | sort | uniq
+  458  awk -F',' '$1 > 10 {print $4}' airline_stats.csv | sort | uniq
+  459  awk -F',' -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv | sort | uniq
+  460  history > a6_cmds.log 
