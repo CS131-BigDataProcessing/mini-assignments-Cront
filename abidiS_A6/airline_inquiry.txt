@@ -1,0 +1,9 @@
+1. All Airlines:
+Alaska, American, Delta, Jet Blue, Southwest, United
+
+2. Airlines with carrier delay greater than 10:
+Alaska, American, Delta, Jet Blue, Southwest, United
+
+3. Airlines with carrier delay greater than a threshold of 15:
+Alaska, American, Delta, Jet Blue, Southwest, United
+
