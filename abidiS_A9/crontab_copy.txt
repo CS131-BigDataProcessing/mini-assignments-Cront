@@ -1,0 +1,4 @@
+0 2 * * * rm -rf tempdir/*
+0 3 * * 0 tar -czf /mnt/scratch/FA24_CS131_Jessica/asyedfa24/mini-assignments-Cront/abidiS_A9/backups-$(date +\%Y-\%m-\%d).tar.gz /mnt/scratch/FA24_CS131_Jessica/asyedfa24/mini-assignments-Cront/abidiS_A9/
+30 8 * * * df -h | mail -s "Daily Disk Usage Report" hasan0407@gmail.com
+

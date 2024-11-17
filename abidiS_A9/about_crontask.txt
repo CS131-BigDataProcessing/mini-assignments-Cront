@@ -1,0 +1,4 @@
+First crontab task Create a cron job that deletes all files from a temporary directory (e.g., `/path/to/home/temp`) every day at **2:00 AM**. 
+
+Second crontab script that backs up your home directory every **Sunday at 3:00 AM**
+Third crontab cron job that emails you a **disk usage report** every day at **8:30 AM**.
